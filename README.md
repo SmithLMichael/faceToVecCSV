@@ -4,8 +4,7 @@ Converts faces into vectorized datapoints, stored in CSV format
 # Many methods and implementation taken from:
 https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
 
-# ^^ you can also use this link to understand how to use the python script - or download dlib or opencv through
-# the links on the page
+# ^^ you can also use this link to understand how to use the python script - or download dlib or opencv through the links on the page
 
 How to use currently:
 
