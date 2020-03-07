@@ -1,5 +1,5 @@
 # faceToVecCSV
-Converts faces into vectorized datapoints, stored in CSV format
+Converts faces into vectorized datapoints, stored in CSV format -- see repo AnimateTheFace for how I used this!
 
 # Many methods and implementation taken from:
 https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
